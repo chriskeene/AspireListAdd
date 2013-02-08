@@ -27,7 +27,8 @@ Your extend file calls AspireListAdd with three options: the class/identifier to
 
  	
 Todo:
-Currently only displays a link if there is an ISBN, add check for DOI, ISSN and other identifiers as well.
+-Currently only displays a link if there is an ISBN, add check for DOI, ISSN and other identifiers as well.
+-At the moment, after a boomarking an item, the user ends up at a dead end (a page showing all their Aspire bookmarks) rather than back to the catalogue, current work around is to open in a new tab, ideally after saving the bookmark should be taken back to the Catalogue.
 
 
 Chris Keene
